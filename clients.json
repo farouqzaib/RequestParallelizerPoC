@@ -1,0 +1,19 @@
+{
+    "homepage": {
+        "resources": [{"name": "banner", "url": "http://127.0.0.1:1337/item"},
+        {"name": "products", "url": "http://127.0.0.1:1337/item"},
+        {"name": "categories", "url": "http://127.0.0.1:1337/item"},
+        {"name": "prices", "url": "http://127.0.0.1:1337/item"},
+        {"name": "chats", "url": "http://127.0.0.1:1337/item"},
+        {"name": "adverts", "url": "http://127.0.0.1:1337/item"},
+        {"name": "merchants", "url": "http://127.0.0.1:1337/item"},
+        {"name": "customers", "url": "http://127.0.0.1:1337/item"},
+        {"name": "guests", "url": "http://127.0.0.1:1337/item"},
+        {"name": "catalog", "url": "http://127.0.0.1:1337/item"}]
+    },
+
+    "about-us": {
+        "resources": [{"banner": "http://127.0.0.1:1337/item"},
+        {"products": "http://127.0.0.1:1337/item"}]
+    }
+}
